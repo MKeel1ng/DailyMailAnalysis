@@ -9,4 +9,5 @@ A project to develop my NLP and skills. We will explore the topics and sentiment
 [ ] Compare text vs title sentiment/topics
 [ ] Evaluate trends/topic drift over time
 [ ] Develop a GAN to generate titles
+  [ ] Classifier pre-train on classifying sentiment?
 [ ] GAN to generate article from title?
